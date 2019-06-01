@@ -1,5 +1,19 @@
 .size {
   position: fixed;
-  top: 0;
-  left: 0;
+  top: 15vh;
+  left: 25vw;
+}
+
+body{
+  background-color: #4ea464;
+}
+
+
+h1{
+  text-align: center;
+  background-color: #bcf8dd;
+  border-radius: 25px;
+  padding: 20px; 
+  width: 80vw;
+  margin: 0 auto;
 }
